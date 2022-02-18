@@ -33,6 +33,8 @@ _Description Here_
 #### Friday, 2/18/22
 * 8.15am - 9.15pm: Set up repo and find the resources for capstone project
 * 9.15 - 10.30 : Watch youTube tutorial of React / Redux
+* 10.30 - 11.45 :  Research documentations for Instagram
+
 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
