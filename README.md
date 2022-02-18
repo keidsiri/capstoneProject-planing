@@ -32,6 +32,7 @@ _Description Here_
 ### Research & Planning Log
 #### Friday, 2/18/22
 * 8.15am - 9.15pm: Set up repo and find the resources for capstone project
+* 9.15 - 10.30 : Watch youTube tutorial of React / Redux
 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
