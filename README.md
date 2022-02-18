@@ -13,6 +13,7 @@
 * _JavaScript_
 * _Bootstrap_
 * _React_
+* _Firebase_
 
 ## Description
 
@@ -34,6 +35,10 @@ _Description Here_
 * 8.15am - 9.15pm: Set up repo and find the resources for capstone project
 * 9.15 - 10.30 : Watch youTube tutorial of React / Redux
 * 10.30 - 11.45 :  Research documentations for Instagram
+* 1.30 - 2.30  : Planing the capstone proposal 
+* 2.30 : Watch the tutorial of Instagram clone ( very long one )
+
+
 
 
 
