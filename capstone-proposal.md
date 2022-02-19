@@ -5,7 +5,8 @@
 ### Name of Project: Building Instagram with React
 
 ### Project's Purpose or Goal: (What will it do for users?)
-- This web application is a social media web similar to Instagram that people can post pictures of anything and another user can like and comment on the pictures.
+- I love the idea of social to bring people together and share our stories , pictures , places wherever we go. 
+So I want to learn to build web application that similar to Instagram where people can post pictures with some details and another users can like and comment on the pictures.
 
 
 ### List the absolute minimum features the project requires to meet this purpose or goal:
