@@ -17,7 +17,7 @@ This web application is a social media web similar to Instagram that people can 
 
 ###What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
-* Main language I will use is Javascript and its library ( React Native) to build an application
+* Main language I will use is Javascript and its library ( React Native) to build an application also HTMl, CSS for styling.
 * Using Firestone database 
 * Possibly using Expo to deploy the website 
 

@@ -36,7 +36,7 @@ _Description Here_
 * 9.15 - 10.30 : Watch youTube tutorial of React / Redux
 * 10.30 - 11.45 :  Research documentations for Instagram
 * 1.30 - 2.30  : Planing the capstone proposal 
-* 2.30 : Watch the tutorial of Instagram clone ( very long one )
+* 2.30 4.30 : Watch the tutorial of Instagram clone ( very long one )
 
 
 
