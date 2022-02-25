@@ -38,6 +38,10 @@ _Description Here_
 * 1.30 - 2.30  : Planing the capstone proposal 
 * 2.30 4.30 : Watch the tutorial of Instagram clone ( very long one )
 
+#### Friday 2/25/2022
+* 8.30 : Study on React with Authentication and Authorization.
+
+
 
 
 
