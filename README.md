@@ -41,6 +41,7 @@ _Description Here_
 #### Friday 2/25/2022
 * 8.30 10.30 : Study on React with Authentication and Authorization for React.
 * 10.30 : Watch youTube tutorial for for Authentication and Authorization for React and how to build with an app.
+* 1.15 - 3.30 : practicing React with Firebase/Firestore , authentication and authorization. 
 
 
 
