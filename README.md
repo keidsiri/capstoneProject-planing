@@ -39,7 +39,8 @@ _Description Here_
 * 2.30 4.30 : Watch the tutorial of Instagram clone ( very long one )
 
 #### Friday 2/25/2022
-* 8.30 : Study on React with Authentication and Authorization.
+* 8.30 10.30 : Study on React with Authentication and Authorization for React.
+* 10.30 : Watch youTube tutorial for for Authentication and Authorization for React and how to build with an app.
 
 
 
