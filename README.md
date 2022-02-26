@@ -43,7 +43,7 @@ _Description Here_
 * 10.30 : Watch youTube tutorial for for Authentication and Authorization for React and how to build with an app.
 * 1.30 : practicing React with Firebase/Firestore , authentication and authorization. https://github.com/keidsiri/react-memory-authentication-authorization
 * 3.30 : Trying to find fix some errors.
-
+* 4.30 : Still need to fix the bug.
 
 
 
