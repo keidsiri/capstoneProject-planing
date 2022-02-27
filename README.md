@@ -45,6 +45,9 @@ _Description Here_
 * 3.30 : Trying to find fix some errors.
 * 4.30 : Still need to fix the bug.
 
+##### Sunday 2/27/22
+2.15 : Setting up React Native Expo ( Installing Expo)
+
 
 
 
