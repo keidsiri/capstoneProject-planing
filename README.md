@@ -47,8 +47,10 @@ _Description Here_
 
 ##### Sunday 2/27/22
 2.15 : Setting up React Native Expo ( Installing Expo)
+3.00 : Setting up project and install dependencies https://github.com/keidsiri/instagram
 
-
+#### Friday 03/04/22
+8.30 : continue building my project
 
 
 
