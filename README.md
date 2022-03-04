@@ -52,6 +52,8 @@ _Description Here_
 #### Friday 03/04/22
 8.30 : continue building my project
 9.45 : Add components and Landing.js
+10.30 : Setting up firebase and authentication 
+1.00 : Adding Register 
 
 
 
