@@ -51,6 +51,7 @@ _Description Here_
 
 #### Friday 03/04/22
 8.30 : continue building my project
+9.45 : Add components and Landing.js
 
 
 
