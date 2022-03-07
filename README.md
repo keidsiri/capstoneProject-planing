@@ -41,9 +41,10 @@ _Description Here_
 #### Friday 2/25/2022
 * 8.30 - 10.30 : Study on React with Authentication and Authorization for React.
 * 10.30 : Watch youTube tutorial for for Authentication and Authorization for React and how to build with an app.
-* 1.30 : practicing React with Firebase/Firestore , authentication and authorization. https://github.com/keidsiri/react-memory-authentication-authorization
-* 3.30 : Trying to find fix some errors.
-* 4.30 : Still need to fix the bug.
+* 1.00 : Watching Youtube tutorial for Building an App using React native
+* 2.30 : Learning React with Firebase/Firestore
+* 3.30 : Practicing on authentication and authorization. https://github.com/keidsiri/react-memory-authentication-authorization 
+* 4.30 : Fixing bugs.
 
 ##### Sunday 2/27/22
 2.15 : Setting up React Native Expo ( Installing Expo)
