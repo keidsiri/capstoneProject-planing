@@ -54,7 +54,7 @@ _Description Here_
 9: 30 : Building my project https://github.com/keidsiri/instagram
 9.45 : Add components and Landing.js
 10.30 : Setting up firebase and authentication 
-1.00 : Adding Register 
+1.00 - 5:00 : Adding Register 
 
 
 
