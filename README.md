@@ -39,7 +39,7 @@ _Description Here_
 * 2.30 4.30 : Watch the tutorial of Instagram clone ( very long one )
 
 #### Friday 2/25/2022
-* 8.30 10.30 : Study on React with Authentication and Authorization for React.
+* 8.30 - 10.30 : Study on React with Authentication and Authorization for React.
 * 10.30 : Watch youTube tutorial for for Authentication and Authorization for React and how to build with an app.
 * 1.30 : practicing React with Firebase/Firestore , authentication and authorization. https://github.com/keidsiri/react-memory-authentication-authorization
 * 3.30 : Trying to find fix some errors.
@@ -50,7 +50,8 @@ _Description Here_
 3.00 : Setting up project and install dependencies https://github.com/keidsiri/instagram
 
 #### Friday 03/04/22
-8.30 : continue building my project
+8.30 : Watching how to use Expo on Youtube
+9: 30 : Building my project https://github.com/keidsiri/instagram
 9.45 : Add components and Landing.js
 10.30 : Setting up firebase and authentication 
 1.00 : Adding Register 
