@@ -57,6 +57,9 @@ _Description Here_
 10.30 : Setting up firebase and authentication 
 1.00 - 5:00 : Adding Register 
 
+#### Monday 03/07/22 
+2.30 pm : Watching Make a React Website with Tailwind CSS Tutorial (https://www.youtube.com/watch?v=gOQ31Kc8H5E)
+
 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
