@@ -62,6 +62,7 @@ _Description Here_
 3.30 : Watching Next.js full course for beginners https://www.youtube.com/watch?v=1WmNXEVia8I
 3.45 : Have meeting for career service 
 4.15 : Continue watching Next.js tutorial 
+5.30 : pause at "Setting up dynamic routes with [slug].js" need to come back on this.
 
 
 
