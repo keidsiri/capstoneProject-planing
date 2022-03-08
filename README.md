@@ -65,7 +65,8 @@ _Description Here_
 5.30 : pause at "Setting up dynamic routes with [slug].js" need to come back on this.
 
 #### Tuesday 03/08/22
-
+8.35 : Continue watching Setting up dynamic routes https://www.youtube.com/watch?v=1WmNXEVia8I.
+9.40 : Updating App.js fixing bugs for log in
 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
