@@ -64,6 +64,8 @@ _Description Here_
 4.15 : Continue watching Next.js tutorial 
 5.30 : pause at "Setting up dynamic routes with [slug].js" need to come back on this.
 
+#### Tuesday 03/08/22
+
 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
@@ -76,4 +78,3 @@ Kate Kiatsiri<br />
 
 Copyright (c) _2022_ _Kate Kiatsiri_
 
-å
