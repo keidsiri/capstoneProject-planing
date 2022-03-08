@@ -67,6 +67,7 @@ _Description Here_
 #### Tuesday 03/08/22
 8.35 : Continue watching Setting up dynamic routes https://www.youtube.com/watch?v=1WmNXEVia8I.
 9.40 : Updating App.js fixing bugs for log in
+11.00 : Watching another tutorial for building website using React https://www.youtube.com/watch?v=HU4EvjPyqRE
 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
