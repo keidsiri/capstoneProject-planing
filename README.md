@@ -60,7 +60,8 @@ _Description Here_
 #### Monday 03/07/22 
 2.30 pm : Watching Make a React Website with Tailwind CSS Tutorial (https://www.youtube.com/watch?v=gOQ31Kc8H5E)
 3.30 : Watching Next.js full course for beginners https://www.youtube.com/watch?v=1WmNXEVia8I
-
+3.45 : Have meeting for career service 
+4.15 : Continue watching Next.js tutorial 
 
 
 
