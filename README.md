@@ -70,7 +70,7 @@ _Description Here_
 11.00 : Watching another tutorial for building website using React https://www.youtube.com/watch?v=HU4EvjPyqRE
 11.45 : Build another project from scratch using Next.js instead due to error on firebase that I can't solve so have to build a new one from beginning https://github.com/keidsiri/instaglam , https://github.com/keidsiri/instagram2 (Had to make another one)
 
-
+12.35 : Update App.tsx and Index.tsx to js
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
