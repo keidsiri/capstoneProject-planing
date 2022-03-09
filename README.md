@@ -79,6 +79,7 @@ _Description Here_
 #### Wednesday 03/09/2022
 8.15 : Continue working on Porject ( update Styling on Header and buttons )
 11.20 : finish the side panel
+11.45 : Install Next.Auth for authentication 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
