@@ -76,6 +76,9 @@ _Description Here_
 7:58 : Continue building the project ( working on Story.js)
 11.30 : Done for the day
 
+#### Wednesday 03/09/2022
+8.15 : Continue working on Porject ( update Styling on Header and buttons )
+
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
 _If you have any questions or suggestions please contact me by email [(click here)](mailto:keidsiri8@gmail.com) with details._
