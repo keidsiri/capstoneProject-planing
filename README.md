@@ -78,6 +78,7 @@ _Description Here_
 
 #### Wednesday 03/09/2022
 8.15 : Continue working on Porject ( update Styling on Header and buttons )
+11.20 : finish the side panel
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
