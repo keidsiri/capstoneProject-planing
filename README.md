@@ -72,6 +72,8 @@ _Description Here_
 
 12.35 : Update App.tsx and Index.tsx to js
 1:30 : Add header logo , search bar with search icon, home icon, paper airplane icon
+7:30 : Take a dinner break
+7:58 : Continue building the project ( working on Story.js)
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
