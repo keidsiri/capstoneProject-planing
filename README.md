@@ -81,6 +81,7 @@ _Description Here_
 11.20 : finish the side panel
 11.45 : Install Next.Auth for authentication 
 1.00 : start doing Authentication 
+2.30 : Setting up Firebase for porject
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
