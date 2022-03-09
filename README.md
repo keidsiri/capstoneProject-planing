@@ -74,6 +74,7 @@ _Description Here_
 1:30 : Add header logo , search bar with search icon, home icon, paper airplane icon
 7:30 : Take a dinner break
 7:58 : Continue building the project ( working on Story.js)
+11.30 : Done for the day
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
