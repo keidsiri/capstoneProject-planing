@@ -83,6 +83,7 @@ _Description Here_
 1.00 : start doing Authentication 
 2.30 : Setting up Firebase for project
 5.00 : Finish the signIn.js to show
+5:45 : Setting up Google Authentication 
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
