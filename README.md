@@ -84,6 +84,8 @@ _Description Here_
 2.30 : Setting up Firebase for project
 5.00 : Finish the signIn.js to show
 5:45 : Setting up Google Authentication 
+6:00 : Take a break 
+10:00 : Continue working on Project
 
 ## License - [MIT](https://opensource.org/licenses/MIT)
 
